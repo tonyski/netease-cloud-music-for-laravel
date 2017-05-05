@@ -1,9 +1,5 @@
 # 网易云音乐API for Laravel5
 
-申明：
-
-本项目的Api代码全部参考自[metowolf/NeteaseCloudMusicApi](https://github.com/metowolf/NeteaseCloudMusicApi)
-我就是把它打包成Laravel Package形式使用
 
 ## Installation
 
